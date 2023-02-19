@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hritish</h1>
-<h3 align="center">A Passionate Software Developer from Dubai</h3>
+<h3 align="center">I'm a passionate Software Developer from Dubai</h3>
 
 - 🔭 I’m currently working on **MealMapper for the UAE Hackathon 2023**
 
