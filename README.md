@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native, MongoDB and Next.js**
 
-- 👨‍💻 All of my projects are available here at [**github.com/hritsh**](github.com/hritsh)
+- 👨‍💻 All of my projects are available here at [**github.com/hritsh**](https://github.com/hritsh)
 
 - 💬 Ask me about **React, Spring Boot, Python, Java, MySQL, Selenium, Linux**
 
