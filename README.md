@@ -3,9 +3,9 @@
 
 - 🎓 I'm a sophomore at Rochester Institute of Technology, Dubai
 
-- 🔭 I’m currently working on **MealMapper for the UAE Hackathon 2023**
-
 - 👨‍💻 I enjoy building projects about stuff i'm interested in in my spare time
+
+- 🔭 I’m currently working on **MealMapper** for the **UAE Hackathon 2023**
 
 - 🌱 I’m currently learning **React Native, MongoDB and Next.js**
 
