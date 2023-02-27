@@ -10,7 +10,9 @@
 
 - 💻 All of my projects are available here at [**github.com/hritsh**](https://github.com/hritsh)
 
-- 💬 Ask me about **React, Spring Boot, Python, Java, MySQL, Selenium, Linux**
+- 💬 Ask me about **Web Development, GNU/Linux, or the latest JS Framework**
+
+- 🎵 I like experimental music, tech, philosophy, and going down random rabbit holes
 
 - 📫 You can reach me at **hritish.mahajan@gmail.com** or my [**Linkedin**](https://www.linkedin.com/in/hritishmahajan/)
 
