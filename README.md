@@ -2,7 +2,7 @@
 
 - 🎓 I'm a sophomore at Rochester Institute of Technology, Dubai
 
-- 👨‍💻 I enjoy building projects that explore my interests in my spare time
+- 👨‍💻 I love building projects that explore my passions and interests
 
 - 🔭 I’m currently working on **MealMapper** for the **UAE Hackathon 2023**
 
@@ -10,9 +10,9 @@
 
 - 💻 All of my projects are available here at [**github.com/hritsh**](https://github.com/hritsh)
 
-- 💬 Ask me about **Web Development, GNU/Linux, or the latest JS Framework**
+- 💬 Ask me about **Web Development, GNU/Linux, or the latest in tech**
 
-- 🎵 I like experimental music, tech, philosophy, and going down random rabbit holes
+- 🎵 I enjoy experimental music, philosophy, and going down random internet rabbit holes
 
 - 📫 You can reach me at **hritish.mahajan@gmail.com** or my [**Linkedin**](https://www.linkedin.com/in/hritishmahajan/)
 
