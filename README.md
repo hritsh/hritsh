@@ -1,6 +1,8 @@
 # Hi 👋, I'm Hritish
 ## I'm a Student and Aspiring Software Developer from Dubai
 
+- 🎓 I'm a sophomore at Rochester Institute of Technology, Dubai
+
 - 🔭 I’m currently working on **MealMapper for the UAE Hackathon 2023**
 
 - 🌱 I’m currently learning **React Native, MongoDB and Next.js**
