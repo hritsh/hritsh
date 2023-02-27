@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&background=0E111699&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Hritish)](https://git.io/typing-svg)
-## I'm a Student and Aspiring Software Developer from Dubai
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=FFFFFF&background=0E111699&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Hritish;I'm+a+Student+and+Aspiring+Software+Developer+from+Dubai+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 - 🎓 I'm a sophomore at Rochester Institute of Technology, Dubai
 
