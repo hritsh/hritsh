@@ -1,10 +1,24 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FFFFFF&background=0E111670&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Hritish;I'm+a+Student+and+Aspiring+Software+Developer+from+Dubai+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
+```typescript
+// Tools I Use
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages" : { "Java", "Python", "Javascript", "Typescript", "C++" },
+    "OtherLanguages" : { "HTML", "CSS", "Bash", "JSON", "Markdown" },
+    "Database" : { "MySQL", "MongoDB", "Firebase" },
+    "Editors" : { "Neovim", "VSCode" },
+    "Platforms" : { "MacOS", "GNU/Linux" },
+    "OtherTools" : { "Git", "Docker", "Figma", "Pixelmator Pro" }
+  };
+}
+```
+
 - 🎓 I'm a sophomore at Rochester Institute of Technology, Dubai
 
 - 👨‍💻 I love building projects that explore my interests in my spare time
 
-- 🔭 I’m currently working on **MealMapper** for the **UAE Hackathon 2023**
+- 🔭 I’m currently working on **AnonChat** using **React, Firebase and Tailwind**
 
 - 🌱 I’m currently learning **React Native, MongoDB and Next.js**
 
