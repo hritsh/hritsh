@@ -9,7 +9,7 @@ class About extends Me {
     "Database" : { "MySQL", "MongoDB", "Firebase" },
     "Editors" : { "Neovim", "VSCode" },
     "Platforms" : { "MacOS", "GNU/Linux" },
-    "OtherTools" : { "Git", "Docker", "Figma", "Pixelmator Pro" }
+    "OtherTools" : { "Git", "Docker", "Figma", "Pixelmator Pro", "Notion" }
   };
 }
 ```
