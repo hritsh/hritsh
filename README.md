@@ -20,7 +20,7 @@ class About extends Me {
 
 - 🔭 I’m currently working on **AnonChat** using **React, Firebase and Tailwind**
 
-- 🌱 I’m currently learning **React Native, MongoDB and Next.js**
+- 🌱 I’m also learning **React Native, MongoDB and Next.js**
 
 - 💻 All of my projects are available here at [**github.com/hritsh**](https://github.com/hritsh)
 
