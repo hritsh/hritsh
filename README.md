@@ -14,7 +14,7 @@ class About extends Me {
 }
 ```
 
-- 🎓 I'm a sophomore at Rochester Institute of Technology, Dubai
+- 🎓 I'm a CIT sophomore at Rochester Institute of Technology, Dubai
 
 - 👨‍💻 I love building projects that explore my interests in my spare time
 
