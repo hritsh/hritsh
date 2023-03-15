@@ -18,7 +18,9 @@ class About extends Me {
 
 - 👨‍💻 I love building projects that explore my interests in my spare time
 
-- 🔭 I’m currently working on **AnonChat** using **React, Firebase and Tailwind** and my Personal Portfolio website **hritish.com**
+- 🔭 I’m currently working on **AnonChat** using **React, Firebase and Tailwind**
+
+- 🌐 I'm also working on my Personal Portfolio website **hritish.com** using **Next.js, Tailwind and Framer Motion**
 
 - 🌱 I’m also learning **React Native, MongoDB and Next.js**
 
