@@ -28,7 +28,7 @@ class About extends Me {
 
 - 💬 Ask me about **Web Development, GNU/Linux, or the latest in tech**
 
-- 🎵 I also enjoy experimental music, philosophy, and going down random internet rabbit holes
+- 🎵 I also like experimental music, philosophy, and going down random internet rabbit holes
 
 - 📫 You can reach me at **hritish.mahajan@gmail.com** or my [**Linkedin**](https://www.linkedin.com/in/hritishmahajan/)
 
