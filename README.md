@@ -35,8 +35,8 @@ class About extends Me {
 ## Stats:
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hritsh&show_icons=true&locale=en&theme=dark)
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=hritsh&show_icons=true&locale=en&layout=compact&theme=dark)
+  ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hritsh&theme=github_dark)
+  ![Most Used Languages](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hritsh&theme=github_dark)
   ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=hritish&theme=dark&langs_count=9)
   
 </div>
