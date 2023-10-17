@@ -13,25 +13,6 @@ class About extends Me {
   };
 }
 ```
-
-- 🎓 I'm a CIT sophomore at Rochester Institute of Technology, Dubai
-
-- 👨‍💻 I love building projects that explore my interests in my spare time
-
-- 🔭 I’m currently working on **AnonChat** using **React, Firebase and Tailwind**
-
-- 🌐 I'm also working on my Personal Portfolio website **hritish.com** using **Next.js, Tailwind and Framer Motion**
-
-- 🌱 I’m also learning **React Native, MongoDB and Next.js**
-
-- 💻 All of my projects are available here at [**github.com/hritsh**](https://github.com/hritsh)
-
-- 💬 Ask me about **Web Development, GNU/Linux, or the latest in tech**
-
-- 🎵 I also like experimental music, philosophy, and going down random internet rabbit holes
-
-- 📫 You can reach me at **hritish.mahajan@gmail.com** or my [**Linkedin**](https://www.linkedin.com/in/hritishmahajan/)
-
 ## Stats:
 <div align="center">
   
