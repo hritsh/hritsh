@@ -13,7 +13,3 @@ class About extends Me {
   };
 }
 ```
-<div align="center">
-  
-  ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=hritish&theme=dark&langs_count=9)
-</div>
