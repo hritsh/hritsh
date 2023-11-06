@@ -6,10 +6,10 @@ class About extends Me {
   const myTools = {  
     "ProgramingLanguages" : { "Java", "Python", "Javascript", "Typescript" },
     "OtherLanguages" : { "HTML", "CSS", "Bash", "JSON", "Markdown" },
-    "Database" : { "MySQL", "MongoDB", "Firebase" },
+    "Database" : { "MySQL", "MongoDB", "Firebase Firestore" },
     "Editors" : { "Neovim", "VSCode" },
     "Platforms" : { "MacOS", "GNU/Linux" },
-    "OtherTools" : { "Git", "Docker", "Figma", "Pixelmator Pro", "Final Cut Pro", "Notion" }
+    "OtherTools" : { "Git", "Docker", "Figma", "Pixelmator Pro", "Final Cut Pro" }
   };
 }
 ```
