@@ -3,13 +3,14 @@
 ```typescript
 // Main Tools I Use
 class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Java", "Python", "Javascript", "Typescript" },
+  const myTools = {
+    "ProgrammingLanguages" : { "Java", "Python", "Javascript", "Typescript", "C#", "PHP" },
+    "TechnologiesFrameworks" : { "React", "Flutter", "Angular", "Node.js", ".NET", "Spring Boot", "Flask", "Next.js" }
     "OtherLanguages" : { "HTML", "CSS", "Bash", "JSON", "Markdown" },
-    "Database" : { "MySQL", "MongoDB", "Firebase Firestore" },
+    "Database" : { "MySQL", "MongoDB", "PostgreSQL" },
     "Editors" : { "Neovim", "VSCode" },
     "Platforms" : { "MacOS", "GNU/Linux" },
-    "OtherTools" : { "Git", "Docker", "Figma", "Pixelmator Pro", "Final Cut Pro" }
+    "OtherTools" : { "Git", "Docker", "Figma", "AWS", "Firebase" }
   };
 }
 ```
